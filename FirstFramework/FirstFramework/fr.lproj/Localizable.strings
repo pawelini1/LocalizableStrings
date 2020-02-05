@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  FirstFramework
+
+  Created by Pawel Szymanski on 04/02/2020.
+  Copyright © 2020 William Hill. All rights reserved.
+*/
+
+"FirstViewController.title.text" = "Premier";
+"FirstViewController.description.text" = "French";
